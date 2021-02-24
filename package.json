@@ -1,0 +1,14 @@
+{
+  "name": "bot-discord",
+  "version": "1.0.0",
+  "description": "bot pour Discord Serveur Shop",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Snowflake",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}

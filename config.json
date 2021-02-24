@@ -1,0 +1,23 @@
+{
+    "token": "ODEzODI4MzAyMzkzNDQyMzc0.YDU-qw.XBucNMerwHAetvHcHo4mvp-gZlA",
+    "prefix": "?",
+    "greeting":  {
+        "channel": "813108000654229534" ,
+        "role": ""
+    },
+
+
+    "reactionRole":
+    {
+        "813105580083773561": 
+        {
+            "emojis": 
+            [{
+                "id":"814165126751060006",
+                "roles": "813108094388142141"
+            }]
+        }
+        
+
+    }
+}
